@@ -1,0 +1,4 @@
+# Excluidos desde el curso de Frontend Developer
+./images
+*.jpg
+*.png
